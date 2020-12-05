@@ -4,11 +4,11 @@ import TwitterIcon from '@material-ui/icons/Twitter';
 import LinkedInIcon from '@material-ui/icons/LinkedIn';
 import FacebookIcon from '@material-ui/icons/Facebook';
 import { Link } from 'react-router-dom';
-import img from  '/testreact/src/assets/back.jpg';
-import panda from '/testreact/src/assets/panda.jpg';
-import javascript from '/testreact/src/assets/javascript.jpg';
-import java from '/testreact/src/assets/java.jpg';
-import pythen from '/testreact/src/assets/pythen.jpg';
+import img from  '../src/assets/back.jpg';
+import panda from '../src/assets/panda.jpg';
+import javascript from '../src/assets/javascript.jpg';
+import java from '../src/assets/java.jpg';
+import pythen from '../src/assets/pythen.jpg';
 const Banner =()=>{
     return(
         <>
